@@ -1,0 +1,30 @@
+# Build artifacts
+bin/
+obj/
+out/
+*.user
+*.suo
+.vs/
+.vscode/
+
+# SQLite DB
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+logs/
+
+# Test results
+TestResults/
+coverage/
+*.trx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tmp
+*.swp
