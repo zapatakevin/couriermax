@@ -263,19 +263,9 @@ Resultado esperado: **todos los tests en verde**, agrupados en:
 
 ---
 
-## 9. Documentación adicional
 
-Si vas a **defender este proyecto en una entrevista técnica**, consulta:
 
-- [`docs/INDEX.md`](docs/INDEX.md) — índice de toda la documentación
-- [`docs/GUIA_ENTREVISTA.md`](docs/GUIA_ENTREVISTA.md) — cómo explicarlo paso a paso
-- [`docs/CHEAT_SHEET.md`](docs/CHEAT_SHEET.md) — respuestas rápidas a preguntas típicas
-- [`docs/WALKTHROUGH.md`](docs/WALKTHROUGH.md) — guion cronometrado para demo en vivo
-- [`docs/PREGUNTAS_FRECUENTES.md`](docs/PREGUNTAS_FRECUENTES.md) — 30 Q&A de entrevista
-
----
-
-## 10. Posibles mejoras (fuera del alcance)
+## 9. Posibles mejoras (fuera del alcance)
 
 - Sustituir SQLite por SQL Server / Postgres en producción.
 - Sustituir `EnsureCreated` por migraciones versionadas (`dotnet ef migrations`).
